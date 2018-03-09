@@ -5,6 +5,7 @@ Log:
 
 
 Important Dates:
+
 Team Declaration - Saturday, March 3
 UML - Sunday, March 11
 Project Submission - Friday, March 23
