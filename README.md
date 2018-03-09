@@ -5,7 +5,6 @@ Log:
 
 
 Important Dates:
-
 Team Declaration - Saturday, March 3
 UML - Sunday, March 11
 Project Submission - Friday, March 23
@@ -14,7 +13,6 @@ Project Submission - Friday, March 23
 
 
 Goal:
-
 For this project, our goal is to find the Potential Suspects from a string of ongoing crimes accross the island. To do this, we are given
 input files from different companies that have a list of phone numbers that were in the area at the time of occurence for the particular 
 crimes. We are to use 4 different approaches given by the instructions to sort through the data and find the potential suspects. After we
